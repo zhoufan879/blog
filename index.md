@@ -16,7 +16,7 @@ In `_config.yml` remember to specify your own data:
     title : My Blog =)
     
     author : 
-      name : zhoufan 周帆
+      name : zhoufan879 周帆
       email : zhoufan879@126.com
       github : https://github.com/zhoufan879
       QQ : 254743383
