@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 小六
-tagline: 代码写得少，别骗我
+tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
